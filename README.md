@@ -6,7 +6,7 @@ This is a 3 day pairing activity.  It is intended to incorporate many of the ski
 
 **Story:** As an un-registered guest on the website, I can go to a web page and see a list of available apartments.
 
-Apartments have: two street designations, a city, postal code, state, and country, in a addition to a building manager's contact info, which includes: name, phone number, and hours to contact
+Apartments have: street, a city, postal code, state, and country, in a addition to a building manager's contact info, which includes: name, phone number, and hours to contact
 
 **Story:** As an un-registered guest on the website, I can click on an apartment to view its details
 
